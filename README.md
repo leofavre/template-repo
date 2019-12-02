@@ -1,2 +1,1 @@
-# template-repo
-Template Repository
+# Template Repository
